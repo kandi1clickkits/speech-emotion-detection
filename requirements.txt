@@ -1,7 +1,8 @@
 jupyter==1.0.0
 ffmpeg-python==0.2.0
 openai==0.27.2
-git+https://github.com/openai/whisper.git
+#git+https://github.com/openai/whisper.git
+openai-whisper
 gradio==3.23.0
 torch==1.11.0
 transformers==4.28.1
